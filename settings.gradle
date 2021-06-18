@@ -1,0 +1,4 @@
+include ':onsdk_all'
+include ':NaviTts'
+include ':app'
+rootProject.name = "OurMap"
